@@ -1,6 +1,6 @@
 @media screen 
-  and (device-width: 360px) 
-  and (device-height: 640px) 
+  and (device-width: 390px) 
+  and (device-height: 844px) 
   and (-webkit-device-pixel-ratio: 2) {
 
     .mini-view {
@@ -42,8 +42,8 @@
 
 /* Portrait and Landscape */
 @media screen 
-  and (device-width: 320px) 
-  and (device-height: 640px) 
+  and (device-width: 390px) 
+  and (device-height: 844px) 
   and (-webkit-device-pixel-ratio: 3) {
 
     .mini-view {
@@ -85,8 +85,8 @@
 
 /* Portrait and Landscape */
 @media screen 
-  and (device-width: 360px) 
-  and (device-height: 640px) 
+  and (device-width: 390px) 
+  and (device-height: 844px) 
   and (-webkit-device-pixel-ratio: 4) {
       .mini-view {
           min-height: 30vh;
