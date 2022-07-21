@@ -1,0 +1,124 @@
+@media screen 
+  and (device-width: 360px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 2) {
+
+    .mini-view {
+        min-height: 30vh;
+        height: auto;
+    }
+
+    .img-logo {
+        display: none;
+    }
+
+    .box-cursos {
+        display: flex;
+        width: 80vw;
+        height: 500px;
+        font-size: 2em;
+    }
+
+    .testimony {
+        width: 80vw;
+        height: 450px;
+        font-size: 2em;
+        margin-bottom: 25px;
+        margin-top: 25px;
+    }
+
+    .testimony-photo {
+        width: 100px;
+        height: 100px;
+    }
+
+    .card-curso {
+        height: 350px;
+        font-size: 2.5em;
+    }
+}
+
+/* ----------- Galaxy S4, S5 and Note 3 ----------- */
+
+/* Portrait and Landscape */
+@media screen 
+  and (device-width: 320px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 3) {
+
+    .mini-view {
+        min-height: 30vh;
+        height: auto;
+    }
+
+    .img-logo {
+        display: none;
+    }
+
+    .box-cursos {
+        display: flex;
+        width: 80vw;
+        height: 500px;
+        font-size: 2em;
+    }
+
+    .testimony {
+        width: 80vw;
+        height: 450px;
+        font-size: 2em;
+        margin-bottom: 25px;
+        margin-top: 25px;
+    }
+
+    .testimony-photo {
+        width: 100px;
+        height: 100px;
+    }
+
+    .card-curso {
+        height: 350px;
+        font-size: 2.5em;
+    }
+}
+
+/* ----------- Galaxy S6 ----------- */
+
+/* Portrait and Landscape */
+@media screen 
+  and (device-width: 360px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 4) {
+      .mini-view {
+          min-height: 30vh;
+          height: auto;
+      }
+
+      .img-logo {
+          display: none;
+      }
+
+      .box-cursos {
+          display: flex;
+          width: 80vw;
+          height: 500px;
+          font-size: 2em;
+      }
+
+      .testimony {
+          width: 80vw;
+          height: 450px;
+          font-size: 2em;
+          margin-bottom: 25px;
+          margin-top: 25px;
+      }
+
+      .testimony-photo {
+          width: 100px;
+          height: 100px;
+      }
+
+      .card-curso {
+          height: 350px;
+          font-size: 2.5em;
+      }
+}
