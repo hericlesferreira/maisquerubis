@@ -592,12 +592,15 @@ hr {
 }
 
 .header-video {
-    position: relative;
-    background-color: black;
-    height: 90vh;
+    /*position: relative; */
+    background-image: url("gi.jpeg");
+    height: 100vh;
     min-height: 25rem;
     width: 100%;
-    overflow: hidden;
+    overflow: visible;
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size:cover;
   }
   
 video {
