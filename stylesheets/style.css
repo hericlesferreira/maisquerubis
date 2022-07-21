@@ -594,7 +594,8 @@ hr {
 .header-video {
     /*position: relative; */
     background-image: url("gi.jpeg");
-    height: 100vh;
+    background-color: #000000;
+    height: 90vh;
     min-height: 25rem;
     width: 100%;
     overflow: visible;
